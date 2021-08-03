@@ -1,0 +1,302 @@
+station,strike,dip,comments,recorder
+EY17-01,4,20,vesicles,sarah
+EY17-04,140,16,vesicles,sarah
+EY17-06,111,10,vesicles,sarah
+FL17-77,184,47,vesicles,sarah
+FL17-79,191,38,vesicles,sarah
+FL17-79,190,42,top,sarah
+FL17-82,214,30,top,sarah
+FL17-82,201,42,vesicles,sarah
+FL17-83,205,24,top,sarah
+FL17-83,222,32,top,sarah
+FL17-92,20,20,weathering,sarah
+TJ17-40,5,12,,sarah
+TJ17-36 A,310,31,vesicles,sarah
+TJ17-36 B,310,36,vesicles,sarah
+TJ17-36 B,280,32,vesicles,sarah
+TJ17-36 C,293,30,,sarah
+TJ17-36 C,275,16,vesicles,sarah
+TJ17-37 A,265,46,flow top,sarah
+TJ17-37 A,260,36,flow top,sarah
+TJ17-37 C,289,28,flow top,sarah
+TJ17-37 D,305,26,red flow top,sarah
+TJ17-37 D,325,30,vesicles,sarah
+TJ17-40,213,21,vesicles,sarah
+TJ17-40,200,18,air,sarah
+TJ17-40,200,25,,sarah
+TJ17-40,210,30,,sarah
+TR17-09,140,30,air,sarah
+TR17-09,135,20,air,sarah
+FL17-67,260,30,flow banding,sarah
+FL17-67,252,23,good bandnig,sarah
+FL17-67,225,32,flow top,sarah
+FL17-67,228,31,flow top,sarah
+FL17-68,180,30,flow top,sarah
+FL17-68,178,34,vesicles,sarah
+FL17-68,206,8,vesicles,sarah
+FL17-68,205,30,"good, vesicles",sarah
+FL17-68,234,36,"good, flow top",sarah
+FL17-69,250,45,flow top,sarah
+FL17-69,230,28,air,sarah
+FL17-69,215,40,vesicles,sarah
+FL17-69,222,43,vesicles,sarah
+FL17-70,252,39,vesicles,sarah
+FL17-70,244,36,vesicles,sarah
+FL17-71,320,30,vesicles in top,sarah
+FL17-71,210,20,empty holes,sarah
+FL17-71,160,3,red flow top,sarah
+FL17-71,201,31,flow top,sarah
+FL17-71,194,21,vesicles,sarah
+FL17-71,201,38,vesicles,sarah
+FL17-73,173,29,"bad, vesicles",sarah
+FL17-73,205,25,air,sarah
+FL17-74,320,30,,sarah
+FL17-74,225,34,vesicles,sarah
+FL17-75 A,234,30,vesicles,sarah
+FL17-75 A,231,29,vesicles,sarah
+FL17-75 B,225,36,vesicles,sarah
+TJ17-38,180,25,vesicles,sarah
+EY17-07,10,10,iffy,sarah
+FL17-76,180,28,vesicles,sarah
+FL17-76,180,36,flow banding,sarah
+FL17-76,205,38,flow top,sarah
+FL17-77,219,50,vesicles,sarah
+FL17-81,204,36,"flow top, iffy",sarah
+FL17-82,256,42,,sarah
+FL17-83,176,30,"vesicles, iffy",sarah
+FL17-84,215,30,,sarah
+FL17-85,220,30,vesicles,sarah
+FL17-85,188,30,vesicles,sarah
+FL17-85,187,19,vesicles,sarah
+FL17-85,178,26,weathering ,sarah
+FL17-86,168,16,weathering ,sarah
+FL17-86,175,30,vesicles,sarah
+FL17-86,178,32,vesicles,sarah
+FL17-87,186,25,weathering ,sarah
+FL17-88,195,20,,sarah
+FL17-91,0,15,air,sarah
+FL17-91,350,10,air,sarah
+FL17-91,343,12,weathering ,sarah
+FL17-93,355,15,,sarah
+TJ17-39,262,11,vesicles,sarah
+TJ17-36 C,260,30,,seth
+TJ17-37 A,245,30,top,seth
+TJ17-37 A,257,42,top,seth
+TJ17-37 C,271,10,,seth
+FL17-67,245,32,banding,seth
+FL17-68,246,22,top,seth
+FL17-68,225,37,air,seth
+FL17-68,239,29,air,seth
+FL17-69,238,31,top,seth
+FL17-69,250,40,"top, confident",seth
+FL17-71,238,37,"top, broken and wavy",seth
+FL17-71,257,34,top,seth
+FL17-72,245,38,,seth
+FL17-72,251,32,top,seth
+FL17-72,208,29,vesicles,seth
+FL17-72,242,26,top,seth
+FL17-73,160,18,vesicles,seth
+FL17-74,250,50,iffy,seth
+FL17-75 A,230,32,vesicles,seth
+FL17-75 B,253,29,top,seth
+EY17-05,165,10,"vesicles, ify",seth
+EY17-05,46,11,"vesicles, ify",seth
+EY17-05,100,16,"vesicles, ify",seth
+EY17-05,110,11,"flow top, iffy",seth
+FL17-79,194,38,top,seth
+FL17-81,245,26,air,seth
+FL17-85,195,26,vesicles,seth
+FL17-86,177,25,vesicles,seth
+FL17-87,185,20,bad,seth
+FL17-89,180,22,bad,seth
+FL17-93,3,24,,seth
+TJ17-39,204,17,"vesicles, good",seth
+TJ17-40,205,17,,seth
+TJ17-40,167,12,,seth
+FL17-78,195,38,"photo, flow top",seth
+FL17-78,199,38,air,seth
+FL17-80,190,43,vesicles,seth
+FL17-80,210,40,flow top,seth
+TJ17-39,285,41,air,seth
+FL14-01,155,20,,sarah
+FL14-01,84,26,,sarah
+FL14-01,185,25,,sarah
+FL14-01,180,20,,sarah
+FL14-03,198,26,,sarah
+FL14-04,193,25,,sarah
+FL14-05,204,28,,sarah
+FL14-05,203,31,,sarah
+FL14-06,190,25,,sarah
+FL14-07,193,20,,sarah
+FL14-11,120,15,,sarah
+FL14-12,120,15,,sarah
+FL14-14,200,18,,sarah
+FL14-14,210,26,,sarah
+FL14-14,194,32,,sarah
+FL14-14,196,30,,sarah
+FL14-14,202,16,,sarah
+FL14-14,196,20,,sarah
+FL14-16,198,28,,sarah
+FL14-18,195,28,,sarah
+FL14-18,224,20,,sarah
+FL14-21,205,29,,sarah
+FL14-23,237,40,,sarah
+FL14-23,215,30,,sarah
+FL14-24,216,39,,sarah
+FL14-24,203,23,,sarah
+FL14-24,217,42,,sarah
+FL14-25,230,29,,sarah
+FL14-25,200,25,,sarah
+FL14-25,242,39,,sarah
+FL14-16,194,19,,sarah
+FL14-16,210,24,,sarah
+FL16-29 A,212,36,,sarah
+FL16-29 A,221,52,,sarah
+FL16-29 A,205,35,,sarah
+FL16-29 A,216,45,,sarah
+FL16-29 B,203,44,,sarah
+FL16-29 B,196,42,,sarah
+FL16-29 B,199,41,,sarah
+FL16-29 B,196,34,,sarah
+FL16-29 B,215,28,,sarah
+FL16-29 B,200,27,,sarah
+FL16-29 B,213,27,,sarah
+FL16-29 B,200,32,,sarah
+FL16-31,202,46,,sarah
+FL16-32,198,40,,sarah
+FL16-32,196,40,,sarah
+FL16-33,200,32,,sarah
+FL16-34,203,40,,sarah
+FL16-34,201,36,,sarah
+FL16-35,196,48,,sarah
+FL16-35,219,28,,sarah
+FL16-36,199,32,,sarah
+FL16-36,220,40,,sarah
+FL16-39,205,30,,sarah
+FL16-40,210,36,,sarah
+FL16-42,220,30,,sarah
+FL16-43,220,30,,sarah
+FL16-44,208,32,,sarah
+FL16-45,208,22,,sarah
+FL16-45,205,31,,sarah
+FL16-46,205,31,,sarah
+FL16-47,205,31,,sarah
+FL16-48,205,35,,sarah
+FL16-49,210,28,,sarah
+FL16-49,210,29,,sarah
+FL16-49,205,34,,sarah
+FL16-50,210,29,,sarah
+FL16-50,220,29,,sarah
+FL16-51,206,30,,sarah
+FL16-51,203,30,,sarah
+FL16-51,205,30,,sarah
+FL16-52,212,24,,sarah
+FL16-52,198,22,,sarah
+FL16-53,246,26,,sarah
+FL16-54,225,20,,sarah
+FL16-55,240,28,,sarah
+FL16-56,220,40,,sarah
+FL16-57,239,34,,sarah
+FL16-58,237,26,,sarah
+FL16-58,196,29,,sarah
+FL16-60,190,25,,sarah
+FL16-60,150,20,,sarah
+FL16-60,165,25,,sarah
+FL16-60,195,27,,sarah
+FL16-60,190,20,,sarah
+FL16-60,188,18,,sarah
+FL16-60,177,25,,sarah
+FL16-60,206,28,,sarah
+FL16-60,173,24,,sarah
+FL16-64,205,25,,sarah
+FL16-64,198,35,,sarah
+FL16-64,190,40,,sarah
+FL16-64,205,36,,sarah
+FL16-64,178,38,,sarah
+FL16-64,182,34,,sarah
+FL16-64,181,28,,sarah
+TJ14-01,265,54,,sarah
+TJ14-01,246,39,,sarah
+TJ14-01,233,36,,sarah
+TJ14-01,233,33,,sarah
+TJ14-01,255,46,,sarah
+TJ14-01,270,41,,sarah
+TJ14-01,261,50,,sarah
+TJ14-03,225,42,,sarah
+TJ14-03,238,37,,sarah
+TJ14-03,261,47,,sarah
+TJ14-03,255,40,,sarah
+TJ14-03,215,45,,sarah
+TJ14-03,224,53,,sarah
+TJ14-07,290,5,,sarah
+TJ14-07,285,12,,sarah
+TJ14-08,295,22,,sarah
+TJ14-08,285,29,,sarah
+TJ14-08,275,23,,sarah
+TJ14-08,295,25,,sarah
+TJ14-09,315,34,,sarah
+TJ14-09,322,43,,sarah
+TJ14-09,328,31,,sarah
+TJ14-10,315,31,,sarah
+TJ14-10,300,20,,sarah
+TJ14-11,277,32,,sarah
+TJ14-11,323,38,,sarah
+TJ14-11,270,30,,sarah
+TJ14-11,294,24,,sarah
+TJ14-12,278,19,,sarah
+TJ14-12,290,28,,sarah
+TJ14-12,265,15,,sarah
+TJ14-15,255,25,,sarah
+TJ14-15,272,20,,sarah
+TJ14-15,280,22,,sarah
+TJ14-15,302,12,,sarah
+TJ16-17,281,35,,sarah
+TJ16-17,291,33,,sarah
+TJ16-17,286,26,,sarah
+TJ16-17,268,36,,sarah
+TJ16-17,298,28,,sarah
+TJ16-18,282,33,,sarah
+TJ16-19,330,41,,sarah
+TJ16-19,300,30,,sarah
+TJ16-19,290,33,,sarah
+TJ16-19,283,33,,sarah
+TJ16-20,264,35,,sarah
+TJ16-20,275,38,,sarah
+TJ16-21,292,33,,sarah
+TJ16-21,282,41,,sarah
+TJ16-21,293,31,,sarah
+TJ16-22,285,28,,sarah
+TJ16-23,272,28,,sarah
+TJ16-24,268,28,,sarah
+TJ16-25,279,36,,sarah
+TJ16-25,276,26,,sarah
+TJ16-26,273,26,,sarah
+TJ16-26,279,30,,sarah
+TJ16-26,278,36,,sarah
+TJ16-27,281,30,,sarah
+TJ16-28,274,34,,sarah
+TJ16-28,286,39,,sarah
+TJ16-28,269,26,,sarah
+TJ16-28,270,36,,sarah
+TJ16-28,260,32,,sarah
+TJ16-29,268,39,,sarah
+TJ16-30,285,33,,sarah
+TJ16-30,289,41,,sarah
+TJ16-31,210,15,,sarah
+TJ16-31,218,18,,sarah
+TJ16-32,210,14,,sarah
+TJ16-33,345,16,,sarah
+TJ16-33,135,24,,sarah
+TJ16-33,160,11,,sarah
+TJ16-34,210,8,,sarah
+TJ16-34,232,11,,sarah
+TJ16-34,93,13,,sarah
+TJ16-34,166,13,,sarah
+TJ16-34,202,11,,sarah
+FL16-66 A,252,39,vesicles,sarah
+FL16-66 A,244,36,vesicles,sarah
+FL16-66 B,180,30,flow top,sarah
+FL16-66 B,178,34,vesicles,sarah
+FL16-66 B,206,8,vesicles,sarah
+FL16-66 B,205,30,"good, vesicles",sarah
+FL16-66 B,234,36,"good, flow top",sarah

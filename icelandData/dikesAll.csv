@@ -1,0 +1,180 @@
+﻿station,strike,dip,width,color,comments,recorder
+TJ17-38,120,75,50,fresh,fresh,ST
+EY17-01,281,85,6,fresh,"fresh, wiggly",ST
+EY17-01,226,73,700,,,ST
+EY17-01,219,78,400,,,ST
+EY17-01,220,75,300,,,ST
+EY17-01,190,70,200,,,ST
+EY17-04,25,79,25,,,ST
+EY17-06,168,90,200,,,ST
+EY17-06,351,82,100,fresh,fresh,ST
+EY17-06,205,88,100,,,ST
+FL17-79,42,52,50,,,ST
+FL17-79,98,84,600,brown,brown,ST
+FL17-79,83,78,,,same,ST
+FL17-79,84,66,400,,,ST
+FL17-80,90,81,20,,undeformed,ST
+FL17-80,332,85,,,squiggly,ST
+FL17-80,320,85,300,black,"black, undeformed",ST
+FL17-80,302,82,800,,same package,ST
+FL17-82,39,50,400,,,ST
+FL17-82,95,85,30,,faulted,ST
+FL17-82,84,83,100,,faulted,ST
+FL17-82,87,82,200,,,ST
+FL17-82,110,78,,fresh,fresh,ST
+FL17-82,272,88,,,,ST
+TJ17-36 A,135,78,,,,ST
+TJ17-36 A,110,90,,,,ST
+TJ17-36 B,45,90,,,,ST
+TJ17-36 C,75,78,,,same,ST
+TJ17-36 C,115,75,,,same,ST
+TJ17-36 C,90,72,100,,,ST
+TJ17-36 C,225,80,,,,ST
+TJ17-37 A,153,79,,,,ST
+TJ17-37 B,180,90,,,,ST
+TJ17-37 B,327,78,200,,same,ST
+TJ17-37 B,327,58,200,,same,ST
+TJ17-37 B,322,78,,,fat,ST
+TJ17-37 E,85,58,,,,ST
+TJ17-37 E,45,90,,,big,ST
+TJ17-37 E,195,82,,,,ST
+TJ17-37 E,115,70,200,,,ST
+TJ17-37 E,107,78,,,not fractured,ST
+TJ17-37 E,155,85,,,not fractured,ST
+TJ17-37 E,175,86,,,not fractured,ST
+TJ17-40,80,78,,,,ST
+FL17-67,144,73,20,fresh,"fresh, undefm",ST
+FL17-67,135,70,,,sheared,ST
+FL17-67,140,50,,,intradike,ST
+FL17-67,235,65,5,,,ST
+FL17-67,135,60,300,veins,vein shot,ST
+FL17-67,145,60,,,,ST
+FL17-67,135,72,,,,ST
+FL17-69,50,72,,black,"black, unfractured",ST
+FL17-69,105,62,,black,"black, faulted",ST
+FL17-69,39,79,25,green,"green, xcuts next",ST
+FL17-69,60,50,,,,ST
+FL17-69,26,70,20,,"chewed, eroding",ST
+FL17-69,96,62,40,,"jags, photo",ST
+FL17-70,90,58,30,black,"black, no veins",ST
+FL17-70,15,85,100,,"photo, faulted",ST
+FL17-71,146,86,,,mostly endeformed,ST
+FL17-71,134,57,30,,used as fault,ST
+FL17-71,309,75,,,,ST
+FL17-71,50,60,100,,bound by B.Z.,ST
+FL17-72,122,86,,brown,"brown, faulty, zone of several",ST
+FL17-72,48,78,40,black,"black, defm",ST
+FL17-72,95,78,100,clack,"black, fresh",ST
+FL17-73,120,90,,,"photo, near pmag",ST
+FL17-74,232,50,100,red,reddish,ST
+FL17-74,114,60,,black,"black, fresh",ST
+FL17-74,136,60,300,brown,"brown, fractured",ST
+FL17-74,75,40,,brown,"brown, thick package",ST
+FL17-74,72,38,1000,,,ST
+FL17-74,99,60,,brown,brown,ST
+FL17-75 B,178,22,8,black,"black, wee",ST
+FL17-75 B,135,70,,brown,"brown, thick",ST
+FL17-75 B,120,72,,,"margin of prev, black",ST
+TJ17-38,145,57,5,,terminates,ST
+TJ17-38,120,70,40,,"intact, cuts gouge",ST
+TJ17-38,315,82,13,red brown,"red brown, undefm",ST
+EY17-02,192,77,,fresh,fresh,ST
+EY17-07,5,85,,,weathered,ST
+EY17-07,110,85,100,,,ST
+FL17-76,105,60,100,"fresh, black","black, fresh",ST
+FL17-76,110,60,30,black,"black, tiny",ST
+FL17-76,86,47,100,,,ST
+FL17-76,65,36,,,"photo, offset by fault",ST
+FL17-78,137,90,,black,"black, crazy",ST
+FL17-81,85,78,,fresh,"photo, fresh, fracd to breccia",ST
+FL17-85,40,80,50,,,ST
+FL17-85,45,80,100,,undefm,ST
+FL17-86,165,85,200,,,ST
+FL17-90,75,72,,,,ST
+FL17-93,200,40,,,very thick,ST
+TJ17-39,173,78,500,,,ST
+TJ17-39,165,75,5,,,ST
+TJ17-39,100,68,,black,black,ST
+TJ17-36 A,160,88,,,,SWS
+TJ17-36 B,336,73,,,,SWS
+TJ17-36 B,161,86,,,,SWS
+TJ17-37 C,340,68,,,,SWS
+TJ17-37 C,343,65,,,,SWS
+TJ17-37 C,2,67,,,,SWS
+TJ17-37 C,125,87,,,,SWS
+TJ17-37 E,197,75,,,,SWS
+TJ17-37 E,190,89,,,,SWS
+FL17-68,110,80,400,,,SWS
+FL17-69,60,79,,,faulted,SWS
+FL17-71,130,81,100,,,SWS
+FL17-72,99,76,50,,,SWS
+FL17-72,330,78,200,,,SWS
+FL17-72,95,83,100,,,SWS
+FL17-72,280,87,100,,,SWS
+FL17-72,96,62,700,, zone of 3-4,SWS
+FL17-73,115,67,,,,SWS
+FL17-75 B,120,70,50,,,SWS
+FL17-75 B,152,21,10,fresh,fresh,SWS
+EY17-02,20,79,,,,SWS
+EY17-02,192,89,,,,SWS
+EY17-05,344,80,,,same,SWS
+EY17-05,329,81,,,same,SWS
+EY17-07,168,85,20,,,SWS
+EY17-07,179,84,80,,,SWS
+FL17-77,50,63,150,,photo,SWS
+FL17-81,95,80,,,,SWS
+FL17-85,10,73,,,,SWS
+FL17-86,158,77,,,,SWS
+FL17-88,349,86,,fresh,very fresh,SWS
+FL17-93,215,63,,,,SWS
+TJ17-39,145,81,,,very fractured,SWS
+TJ17-40,59,64,,,,SWS
+TJ17-40,61,80,,,,SWS
+FL17-78,282,90,500,,packet,SWS
+FL17-78,105,86,,,defm,SWS
+FL17-78,101,85,,,"wiggles, coarse",SWS
+FL17-80,54,43,,,faulted,SWS
+FL17-80,295,90,200,,photo,SWS
+FL17-80,283,88,200,,,SWS
+TJ17-39,152,71,250,,faulted,SWS
+TJ17-39,228,85,50,brown,brown,SWS
+TJ17-39,63,68,30,black,"black, squiggly",SWS
+TJ17-39,20,66,1000,,zone,SWS
+TJ17-39,22,77,,,zone,SWS
+TJ17-39,22,78,,,zone,SWS
+TJ17-39,23,67,,,,SWS
+TJ14-07,353,85,,,,ST
+TJ14-07,128,88,,,,ST
+TJ14-10,206,79,,,photo,ST
+TJ14-10,95,64,,,small,ST
+FL14-02,42,90,,,,ST
+FL14-02,85,58,,,,ST
+FL14-06,68,78,100,,,ST
+FL14-06,45,85,200,,,ST
+FL14-06,52,73,,,small,ST
+FL14-12,30,90,150,,iffy,ST
+FL14-12,25,90,200,,,ST
+FL14-12,355,83,15,,,ST
+FL14-12,0,90,50,,,ST
+FL14-12,350,90,150,,,ST
+FL14-12,15,80,200,,,ST
+FL14-12,15,74,,,,ST
+FL14-12,30,90,,,,ST
+FL14-12,20,90,,,,ST
+TR17-01,25,78,,,compound,ST
+TR17-01,30,80,,,,ST
+TR17-01,5,80,,,iffy,ST
+TR17-01,15,80,,,iffy,ST
+TR17-01,35,80,,,,ST
+TR17-01,160,80,,,,ST
+TR17-01,195,70,,,,ST
+TJ16-21,0,90,,,,ST
+TJ16-21,40,90,,,,ST
+TJ16-21,75,90,2000,,"compound, fractured",ST
+TJ16-25,180,80,,,,ST
+TJ16-25,210,80,,brown,"brown, massive",ST
+TJ16-25,35,90,100,,,ST
+TJ16-25,80,70,300,,,ST
+TJ16-25,70,80,,,,ST
+FL16-66 A,30,78,500,,,ST
+FL16-66 B,30,80,,,,ST

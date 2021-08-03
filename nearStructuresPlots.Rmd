@@ -1,0 +1,144 @@
+---
+title: "nearStructures"
+author: "Natalie Hummel"
+date: "9/12/2019"
+output: html_document
+---
+To make plots from Figures 7, 8
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = '/Users/natalie/Desktop/geo/Iceland/GeologyGeometry')
+knitr::opts_knit$set(eval.after = 'fig.cap')
+getwd()
+```
+```{r}
+source("/users/natalie/desktop/geo/iceland/geologyGeometry/library/all.R")
+source("/users/natalie/desktop/geo/iceland/geologyGeometry/loadStructures2018.R")
+```
+
+RAW DATA PLOTS:
+```{r}
+allSlicks$hues <- hues(allSlicks$distance, c(0, 28000))
+dikes$hues <- hues(dikes$distance, c(0, 28000))
+bzs$hues <- hues(bzs$distance, c(0, 28000))
+
+LL1 <- filter(allSlicks, easting < 641500, distance < 2000, slipSense=="L")
+RL1 <- filter(allSlicks, easting < 641500, distance < 2000, slipSense=="R")
+N1 <- filter(allSlicks, easting < 641500, distance < 2000, slipSense=="N")
+d1 <- filter(dikes, easting < 641500, distance < 2000)
+bz1 <- filter(bzs, easting < 641500, distance < 2000)
+  
+LL2 <- filter(allSlicks, easting < 641500, distance > 2000, distance < 5000, slipSense=="L")
+RL2 <- filter(allSlicks, easting < 641500, distance > 2000, distance < 5000, slipSense=="R")
+N2 <- filter(allSlicks, easting < 641500, distance > 2000, distance < 5000, slipSense=="N")
+d2 <- filter(dikes, easting < 641500, distance > 2000, distance < 5000)
+bz2 <- filter(bzs, easting < 641500, distance > 2000, distance < 5000)
+
+LL3 <- filter(allSlicks, easting < 641500, distance > 5000, distance < 18000, slipSense=="L")
+RL3 <- filter(allSlicks, easting < 641500, distance > 5000, distance < 18000, slipSense=="R")
+N3 <- filter(allSlicks, easting < 641500, distance > 5000, distance < 18000, slipSense=="N")
+d3 <- filter(dikes, easting < 641500, distance > 5000, distance < 18000)
+bz3 <- filter(bzs, easting < 641500, distance > 5000, distance < 18000)  
+
+LL4 <- filter(allSlicks, easting < 641500, distance > 18000, slipSense=="L")
+RL4 <- filter(allSlicks, easting < 641500, distance > 18000, slipSense=="R")
+N4 <- filter(allSlicks, easting < 641500, distance > 18000, slipSense=="N")
+d4 <- filter(dikes, easting < 641500, distance > 18000)
+bz4 <- filter(bzs, easting < 641500, distance > 18000)
+```
+```{r}
+
+lineKambPlot(LL1$pole, colors=LL1$hues)
+lineKambPlot(LL2$pole, colors=LL2$hues)
+lineKambPlot(LL3$pole, colors=LL3$hues)
+lineKambPlot(LL4$pole, colors=LL4$hues)
+
+lineKambPlot(RL1$pole, colors=RL1$hues)
+lineKambPlot(RL2$pole, colors=RL2$hues)
+lineKambPlot(RL3$pole, colors=RL3$hues)
+lineKambPlot(RL4$pole, colors=RL4$hues)
+
+lineKambPlot(N1$pole, colors=N1$hues)
+lineKambPlot(N2$pole, colors=N2$hues)
+#lineKambPlot(N3$pole, colors=N3$hues) - no observations
+lineKambPlot(N4$pole, colors=N4$hues)
+
+```
+```{r}
+#NEAR FAULT BINS FOR PLOTS
+LL1$hues <- color_values(LL1$easting, palette='plasma')
+LLeast <- filter(LL1, easting > 639000)
+LLmid <- filter(LL1, easting < 639000, easting > 634000)
+LLwest <- filter(LL1, easting < 634000)
+lineEqualAreaPlot(LLeast$pole, colors=LLeast$hues)
+lineEqualAreaPlot(LLmid$pole, colors=LLmid$hues)
+lineEqualAreaPlot(LLwest$pole, colors=LLwest$hues)
+RL1$hues <- color_values(RL1$easting, palette='plasma')
+RLeast <- filter(RL1, easting > 639000)
+RLmid <- filter(RL1, easting < 639000, easting > 634000)
+RLwest <- filter(RL1, easting < 634000)
+lineEqualAreaPlot(RLeast$pole, colors=RLeast$hues)
+lineEqualAreaPlot(RLmid$pole, colors=RLmid$hues)
+lineEqualAreaPlot(RLwest$pole, colors=RLwest$hues)
+N1$hues <- color_values(N1$easting, palette='plasma')
+Neast <- filter(N1, easting > 639000)
+Nmid <- filter(N1, easting < 639000, easting > 634000)
+Nwest <- filter(N1, easting < 634000)
+lineEqualAreaPlot(Neast$pole, colors=Neast$hues)
+lineEqualAreaPlot(Nmid$pole, colors=Nmid$hues)
+lineEqualAreaPlot(Nwest$pole, colors=Nwest$hues)
+d1$hues <- color_values(d1$easting, palette='plasma')
+deast <- filter(d1, easting > 639000)
+dmid <- filter(d1, easting < 639000, easting > 634000)
+dwest <- filter(d1, easting < 634000)
+lineEqualAreaPlot(deast$pole, colors=deast$hues)
+lineEqualAreaPlot(dmid$pole, colors=dmid$hues)
+lineEqualAreaPlot(dwest$pole, colors=dwest$hues)
+```
+```{r}
+pdf(paste("RawPolesPlasmaKamb.pdf", sep = ""), useDingbats = FALSE, width = 10, height = 8)
+  par(pty="s")
+  par(mar=c(2,2,2,2))
+par(mfrow=c(4, 3))
+lineKambPlot(LLeast$pole, colors = LLeast$hues)
+lineKambPlot(LLmid$pole, colors=LLmid$hues)
+lineKambPlot(LLwest$pole, colors=LLwest$hues)
+lineKambPlot(RLeast$pole, colors = RLeast$hues)
+lineKambPlot(RLmid$pole, colors=RLmid$hues)
+lineKambPlot(RLwest$pole, colors=RLwest$hues)
+lineKambPlot(Neast$pole, colors = Neast$hues)
+lineKambPlot(Nmid$pole, colors=Nmid$hues)
+lineKambPlot(Nwest$pole, colors=Nwest$hues)
+lineKambPlot(deast$pole, colors = deast$hues)
+lineKambPlot(dmid$pole, colors=dmid$hues)
+lineKambPlot(dwest$pole, colors=dwest$hues)
+  dev.off()
+```
+```{r}
+pdf(paste("RawPolesBZs.pdf", sep = ""), useDingbats = FALSE, width = 10, height = 6)
+  par(pty="s")
+  par(mar=c(2,2,2,2))
+par(mfrow=c(3,4))
+lineKambPlot(bz1$pole, colors=bz1$hues)
+lineKambPlot(bz2$pole, colors=bz2$hues)
+lineKambPlot(bz3$pole, colors=bz3$hues)
+lineKambPlot(bz4$pole, colors=bz4$hues)
+  dev.off()
+```
+```{r}
+
+par(mfrow=c(3,4))
+lineKambPlot(LL1$pole, colors=LL1$hues)
+lineKambPlot(LL2$pole, colors=LL2$hues)
+lineKambPlot(LL3$pole, colors=LL3$hues)
+lineKambPlot(LL4$pole, colors=LL4$hues)
+lineKambPlot(RL1$pole, colors=RL1$hues)
+lineKambPlot(RL2$pole, colors=RL2$hues)
+lineKambPlot(RL3$pole, colors=RL3$hues)
+lineKambPlot(RL4$pole, colors=RL4$hues)
+lineKambPlot(N1$pole, colors=N1$hues)
+lineKambPlot(N2$pole, colors=N2$hues)
+lineKambPlot(N2$pole, colors=N2$hues)
+lineKambPlot(N4$pole, colors=N4$hues)
+```

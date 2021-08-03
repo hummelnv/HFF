@@ -1,0 +1,290 @@
+﻿station,strike,dip,width,shear,fill,recorder,comments
+EY18-11,335,87,50,,,SWS,
+EY18-11,34,90,50,,,SWS,
+FL18-68,140,90,,,,SWS,FL18-68? august 19--just seth and paul
+FL18-68,210,39,200,,,SWS,FL18-68? august 19--just seth and paul
+FL18-69 C,22,47,,N/RL,,SWS,
+FL18-67 B,18,72,5,,orange gouge,SWS,
+FL18-67 C,100,56,,,,SWS,
+FL18-67 C,207,73,5,,,SWS,
+FL18-67 C,53,62,,,,SWS,
+FL18-67 C,77,59,,,,SWS,
+FL18-67 C,34,49,20,,,SWS,
+FL18-67 D,50,87,,,,SWS,
+FL18-95 C,26,77,,,,SWS,
+FL18-95 E,353,85,10,,gouge,SWS,
+FL18-95 E,100,31,5,,gouge,SWS,
+FL18-95 G,30,72,,N,,SWS,
+FL18-95 G,202,75,,,,SWS,
+FL18-95 G,18,66,,,,SWS,
+TR18-10,207,80,,,,SWS,
+TR18-11,98,86,,,orange,SWS,
+TR18-12,45,54,,N,,SWS,
+TR18-12,35,80,5,,,SWS,
+FL18-96 B,241,79,,,,SWS,
+FL18-97,141,78,,N,,SWS,
+FL18-98,331,60,,,,SWS,
+FL18-98,116,82,,,,SWS,
+FL18-68,5,90,100,RL,,SWS,FL18-68? august 19--just seth and paul
+FL18-68,10,90,100,,,SWS,FL18-68? august 19--just seth and paul
+FL18-68,138,60,500,N,,SWS,FL18-68? august 19--just seth and paul
+FL18-69 C,356,45,300,,,SWS,
+FL18-72 E,98,70,40,,red gouge,NH,
+EY18-08 B,3,75,,,,NH,
+EY18-08 H,47,88,10,,,NH,
+EY18-08 H,195,75,50,,none just crumbly,NH,
+EY18-12,255,80,,,,NH,
+FL18-67 C,135,60,10,,,NH,
+FL18-67 D,73,52,5,,"red, green gouge",NH,
+FL18-67 D,80,48,3,,green gouge,NH,
+FL18-67 D,50,75,,,green gouge,NH,iffy
+FL18-68 C,35,72,50,,"red, brown gouge",NH,
+FL18-71 A,195,85,10,,gouge,NH,
+FL18-71 A,162,78,50,,red gouge,NH,iffy
+FL18-71 A,195,80,40,,,NH,
+FL18-71 B,30,90,,,,NH,
+FL18-71 B,200,80,0.1,,"red, white",NH,
+FL18-71 C,83,80,20,,,NH,
+FL18-71 C,45,78,30,,,NH,iffy
+FL18-71 C,47,80,10,,,NH,
+FL18-71 C,70,64,,,,NH,
+FL18-71 C,183,68,,,,NH,iffy
+FL18-72 A,110,60,,,,NH,iffy
+FL18-72 A,15,60,,,,NH,
+FL18-72 A,14,70,,,,NH,
+FL18-72 A,87,68,,,,NH,
+FL18-72 A,33,60,,N,,NH,
+FL18-72 A,34,85,,,,NH,
+FL18-72 B,120,70,5,,red gouge,NH,
+FL18-72 B,100,63,20,,,NH,
+FL18-72 D,26,58,15,,"red gouge, white veins on margins",NH,
+FL18-72 E,10,90,,,,NH,iffy
+FL18-72 F,85,76,5,,red gouge,NH,
+FL18-72 F,88,84,5,,red gouge,NH,
+FL18-72 F,206,69,5,RL/N,red gouge,NH,
+FL18-72 F,120,90,40,,red gouge,NH,
+FL18-95 D,56,80,,LL/N,,NH,iffy
+FL18-95 D,140,55,,RL/T,,NH,
+FL18-95 G fault 15,30,83,3,,"red, green gouge",NH,
+FL18-97 B,4,70,,N,separates green rock and black flow top,NH,
+TJ18-37 A,58,60,,,,NH,
+TJ18-37 J,185,76,,N,crumbly and weathered out,NH,
+TJ18-37 J,145,80,,,,NH,iffy
+TJ18-37 W,168,85,,,,NH,
+TJ18-37 W,15,85,,,,NH,
+TJ18-37 W,348,85,,,,NH,
+TJ18-41 A,347,80,,LL,,NH,iffy
+TJ18-42,18,90,,,,NH,
+TJ18-42,4,75,,,,NH,
+TJ18-42,195,70,,N,,NH,
+TJ18-43 A,310,87,,,,NH,
+TJ18-44,155,90,10,,none,NH,sarah was unsure if any of the structures in this area were real faults
+TJ18-44,160,90,10,,none,NH,iffy
+TJ18-44,163,86,10,,none,NH,iffy
+TJ18-44,158,87,10,,none,NH,iffy
+TJ18-44,125,90,10,,none,NH,iffy
+TJ18-44,165,90,10,,none,NH,iffy
+TJ18-45 A,95,77,,,,NH,
+TJ18-46,158,74,3,,,NH,
+TJ18-47 E,160,90,1,LL,"clay. pebbles on inside, maybe fallen in recently",NH,
+TJ18-47 N,305,82,,,,NH,
+TJ18-47 S,105,90,30,,"layered pink/grey clay, briken rock",NH,
+TJ18-49 A,5,85,,RL/N,,NH,iffy
+TJ18-49 A,5,87,,RL/N,,NH,
+TJ18-49 A,170,90,,RL/N,,NH,
+TJ18-49 A,163,72,,,white ,NH,
+TJ18-49 A,173,90,,,white,NH,
+TJ18-49 G,77,75,5,,red gouge,NH,
+TJ18-49 H,126,70,,RL/N,,NH,
+TJ18-37 Y,350,83,,,gouge,NH,
+TJ18-37 Z,15,90,,,,NH,
+TJ18-37 Z,125,70,,,,NH,
+TJ18-37 Z,345,90,100,,,NH,
+FL18-72 F,8,60,5,,"green, brown, orange gouge",NH,
+TJ18-41,140,90,,,,ST,
+TJ18-41,325,80,5,LL/T,,ST,
+TJ18-41,150,90,,RL,,ST,
+TJ18-37 D,50,75,,,,ST,
+TJ18-37 M,195,78,,,,ST,
+TJ18-37 S,5,90,20,,,ST,
+TJ18-37 T,28,90,100,,,ST,
+TJ18-37 T,24,80,100,,red,ST,
+TJ18-37 T,30,90,,,,ST,
+TJ18-41 C,322,70,,,,ST,
+TJ18-42 A,170,90,,,,ST,
+TJ18-42 A,18,82,7,,gouge,ST,
+TJ18-42 A,25,85,10,RL,"gouge, veins",ST,
+TJ18-42 C,45,90,,,red,ST,
+TJ18-42 F,320,70,,,red gouge,ST,
+TJ18-42 G,136,65,,,"gouge, veins",ST,
+TJ18-42 G,165,70,,,white,ST,
+TJ18-42 G,52,68,,,,ST,
+TJ18-42 H,180,85,.5,LL,gouge,ST,
+TJ18-43,325,80,40,,horizontal clay layers,ST,
+TJ18-44,195,85,,,,ST,
+TJ18-46,118,65,3,,green gouge,ST,
+TJ18-46,220,90,,,,ST,
+TJ18-37 W,20,80,,,,ST,
+TJ18-37 Y,25,80,,,,ST,
+TJ18-47 C,160,90,,,,ST,
+TJ18-49 A,5,85,,RL,,ST,
+TJ18-49 A,22,60,,,,ST,
+TJ18-49 A,27,82,,,,ST,
+TJ18-49 A,265,85,,RL,,ST,
+TJ18-49 A,1,80,,,white,ST,
+TJ18-49 F,110,90,,RL,,ST,
+TJ18-49 F,77,75,,,,ST,
+TJ18-49 G,140,70,,,gouge,ST,
+TJ18-49 H,126,65,,RL,,ST,
+EY18-08 A,335,70,,,crushed rock,ST,
+EY18-08 A,22,80,,,,ST,
+EY18-11,30,90,,,,ST,
+FL18-68,25,73,,LL,,ST,
+FL18-68,40,80,,LL,,ST,
+FL18-68,55,75,10,,gouge,ST,
+FL18-68,310,90,10,,red,ST,
+FL18-68,10,85,5,,red gouge,ST,
+FL18-68,25,90,,,weathered out zone,ST,
+FL18-68,55,60,10,,,ST,
+FL18-68,135,85,,,,ST,
+FL18-71,10,90,50,,"red gouge, veins",ST,
+FL18-71,180,60,,,,ST,
+FL18-71,193,60,,,,ST,
+FL18-71,115,54,30,,gouge,ST,
+FL18-71,35,90,50,,"red gouge, veins",ST,
+FL18-71,56,60,100,,red gouge,ST,
+FL18-71 C,45,90,,LL,,ST,
+FL18-71 C,70,73,,,red,ST,
+FL18-71 D,355,65,50,,"red gouge, anastomosing veins",ST,
+FL18-71 D,355,80,10,,gouge,ST,
+FL18-71 D,70,75,50,,dark red,ST,
+FL18-71 E,150,75,,,"red, green",ST,
+FL18-72 A,20,62,100,N,gouge,ST,
+FL18-72 A,30,85,small,RL,,ST,
+FL18-72 D,70,75,,,,ST,
+FL18-67,345,90,50,,red gouge,ST,FL18-67-1
+FL18-67,20,70,30,,brown gouge,ST,FL18-67-2
+FL18-67,99,73,,,green,ST,FL18-67-3
+FL18-67,101,66,,,,ST,FL18-67-3
+FL18-67,30,80,5,,red gouge,ST,FL18-67-4
+FL18-67,334,55,5,,green gouge,ST,FL18-67-7
+FL18-67,55,65,,,,ST,FL18-67-9
+FL18-67,30,90,100,,"veins, gouge on margins",ST,FL18-67-10
+FL18-67,85,43,,,,ST,FL18-67-12
+FL18-67,82,53,100,,green gouge,ST,FL18-67-12
+FL18-95,4,70,,,gouge,ST,FL18-95-1
+FL18-95,20,90,30,,green gouge,ST,FL18-95-1
+FL18-95,18,72,200,,"weathered out, green",ST,FL18-95-2
+FL18-95,170,45,20,,,ST,FL18-95-3
+FL18-95,15,80,,,,ST,FL18-95-4
+FL18-95,203,85,10,RL,red gouge,ST,FL18-95-5
+FL18-95,22,62,15,N,,ST,FL18-95-6
+FL18-95,50,75,100,,brown gouge,ST,FL18-95-7
+FL18-95,72,35,200,,,ST,FL18-95-8
+FL18-95,210,47,,,"red gouge, rubble",ST,FL18-95-9
+FL18-95,200,70,,,,ST,FL18-95-9
+FL18-95,110,40,,,"paleosol, chunks, big mess",ST,FL18-95-10
+FL18-95,95,50,,,red gouge,ST,FL18-95-10
+FL18-95,75,55,200,,red cataclasite gouge,ST,FL18-95-12
+FL18-95,325,90,,,,ST,FL18-95-13
+FL18-95,75,90,,RL,,ST,FL18-95-13
+FL18-95,70,90,,RL,,ST,FL18-95-13
+FL18-95,65,45,,RL,,ST,FL18-95-13
+FL18-95,40,90,,RL,,ST,FL18-95-13
+FL18-95,252,35,,LL,,ST,FL18-95-13
+FL18-95,345,88,40,LL,grey gouge,ST,FL18-95-14
+FL18-95,140,60,huge,,weathered out,ST,FL18-95-17
+FL18-99,100,65,,,,ST,FL18-99 4
+FL18-99,95,80,100,,"gouge,veins, pink, red",ST,FL18-99 5
+FL18-99 D,326,81,10,RL,,ST,
+FL18-99 G,61,60,20,,veins,ST,
+FL18-99 G,85,80,5,,red,ST,
+FL18-99 H,35,75,,,,ST,
+FL18-99 H,110,90,,,,ST,
+FL18-99 H,10,65,,,,ST,
+FL18-71,195,75,15,,red gouge,ST,
+FL18-71,215,85,,,,ST,
+FL18-71,200,80,,,,ST,
+FL18-67,127,75,200,,"fractures, red gouge on margin",ST,FL18-67-5
+FL18-95,85,38,,,,ST,FL18-95-8
+FL18-98 B,345,90,10,,fractures,ST,
+FL18-72,122,65,75,N,red gouge,ST,
+FL18-71,15,90,40,,,ST,FL18-71-10
+FL18-72 D,15,85,40,,red gouge,ST,
+FL18-71,215,70,,,red gouge,ST,FL18-71-11
+FL18-72 D,100,83,30,,,ST,
+FL18-67,60,90,100,,"veins, green, damage, fractures",ST,FL18-67-11
+FL18-71,85,70,100,,,ST,FL18-71-12
+FL18-72 D,80,80,40,,red gouge,ST,
+FL18-74,340,40,5,,black,ST,FL18-74-13
+FL18-74,80,60,,,"veins, weathered out",ST,FL18-74-14
+FL18-71 C,45,80,100,,"red gouge, white veins",ST,FL18-71 C-15
+FL18-95,10,90,,,,ST,FL18-95-15
+FL18-71 C,45,85,,LL,,ST,FL18-71 C-15
+FL18-95,128,46,15,,,ST,FL18-95-16
+FL18-71 C,35,90,,LL,,ST,FL18-71 C-17
+FL18-71 C,120,65,1000,,,ST,FL18-71 C-18
+FL18-71 E,25,75,50,,red gouge,ST,
+FL18-71 E,30,90,50,LL,"red, weathered out",ST,
+FL18-71 E,320,90,300,,red gouge,ST,
+FL18-71 E,120,82,50,,"red, green, rubble",ST,
+FL18-71 E,105,50,300,,red gouge,ST,
+Fl18-72 A ,30,45,10,,red gouge,ST,
+Fl18-72 A ,350,55,30,LL/N,red gouge,ST,
+Fl18-72 A,90,68,100,,red gouge,ST,
+Fl18-72 A,112,64,1000,,red gouge,ST,
+FL18-99 7,115,85,100,,"veins, weathers out",ST,
+FL18-71-8,230,60,40,,"red gouge, veins",ST,
+FL18-72 D,22,55,100,LL/N,red gouge,ST,
+FL18-71-9,180,75,,,,ST,
+FL18-68,24,88,100,,gouge,ST,
+FL18-68,32,72,50,,red gouge,ST,
+FL18-68,70,52,200,,,ST,
+FL18-68 B,37,75,100,,,PA,
+FL18-68 B,33,74,10,,,PA,
+FL18-68 B,65,88,,,,PA,
+FL18-68 B,352,71,150,,gouge,PA,
+FL18-68 E,96,72,,,,PA,
+FL18-68 E,97,63,,,,PA,
+FL18-68 G,44,69,100,LL/N,,PA,
+FL18-68 G,32,75,10,,,PA,
+FL18-68 G,198,55,,,,PA,
+FL18-69 B,88,56,,,,PA,
+FL18-69 B,335,90,,,,PA,
+FL18-69 B,157,85,150,,breccia,PA,
+FL18-69 C,305,74,3,,"white, gouge",PA,
+FL18-69 C,312,80,2,N,,PA,
+FL18-69 C,328,85,10,N,"white, gouge",PA,
+FL18-69 C,16,60,,,,PA,
+FL18-69 C,23,40,,N,,PA,
+FL18-69 D,76,51,,,,PA,
+FL18-69 D,37,61,,,,PA,
+FL18-69 D,340,67,100,,,PA,
+FL18-69 E,66,58,,LL/N,,PA,
+FL18-69 E,325,88,,,,PA,
+FL18-69 E,15,80,,,,PA,
+FL18-69 E,1,77,,,,PA,
+FL18-67 A,65,77,,,,PA,
+FL18-67 A,42,64,,,,PA,
+FL18-67 A,165,69,,,,PA,
+FL18-67 A,95,55,,,,PA,
+FL18-67 B,90,68,,,,PA,
+FL18-67 B,85,61,15,,damage zone,PA,
+FL18-67 B,91,56,,,,PA,
+FL18-67 B,341,87,,,,PA,
+FL18-67 B,186,90,,,,PA,
+FL18-95 A,95,40,10,,,PA,
+FL18-95 B,49,57,,,,PA,
+FL18-95 B,158,47,10,,,PA,
+FL18-95 B,203,85,very large,N,,PA,
+FL18-95 B,175,62,,,,PA,
+FL18-99 C,105,75,,LL,,PA,
+FL18-99 E,125,90,,,,PA,
+FL18-75 A,0,75,3,N,damage zone,PA,
+TJ18-42,304,68,,,,MB,
+TJ18-42,319,66,,,,MB,
+TJ18-42,10,87,,,,MB,
+TJ18-42,18,84,,,,MB,
+TJ18-42,25,84,,,,MB,
+TJ18-37 Z,25,88,,,,MB,
+TJ18-42,309,60,,,,MB,

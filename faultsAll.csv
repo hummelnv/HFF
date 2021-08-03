@@ -1,0 +1,559 @@
+station,strike,dip,rakes,shear,comments,recorder
+TJ17-38,319,78,5,RL,,sarah
+TJ17-38,335,70,45,TR,big,sarah
+TJ17-38,278,89,8,RL,,sarah
+TJ17-38,19,40,,,big,sarah
+TJ17-38,230,58,,N,"curvy, offsets marker",sarah
+EY17-01,25,90,,,,sarah
+EY17-01,57,90,,,,sarah
+EY17-04,244,82,20,LL,"red, white",sarah
+EY17-04,0,90,0,,,sarah
+EY17-04,188,79,131,N,red,sarah
+EY17-04,13,66,110,N,red,sarah
+EY17-04,245,69,86,N,red,sarah
+EY17-04,230,68,102,N,red,sarah
+EY17-04,7,60,87,N,,sarah
+EY17-06,174,80,7,,,sarah
+EY17-06,194,80,9,LL,iffy,sarah
+EY17-06,281,71,177,,,sarah
+EY17-06,188,85,108,N,,sarah
+FL17-77,6,42,7,RL,,sarah
+FL17-77,5,50,4,RL,,sarah
+FL17-77,60,67,100,N,,sarah
+FL17-79,206,35,7,LL,,sarah
+FL17-79,308,67,,,"5cm, gouge",sarah
+FL17-79,175,72,25,RL,,sarah
+FL17-79,188,57,164,LL,,sarah
+FL17-79,335,37,22,RL,red,sarah
+FL17-79,220,46,160,LL,red,sarah
+FL17-79,170,41,16,RL,WHITE,sarah
+FL17-79,55,57,,,"red, cataclasite",sarah
+FL17-79,72,80,130,TL,,sarah
+FL17-79,56,61,173,RL,dike margin,sarah
+FL17-79,25,46,175,RL,,sarah
+FL17-79,348,40,,,,sarah
+FL17-79,65,63,37,NL,,sarah
+FL17-79,340,36,,,,sarah
+FL17-79,52,35,,N,,sarah
+FL17-80,198,69,,LL,,sarah
+FL17-80,17,66,,,,sarah
+FL17-80,300,73,,,dike margin,sarah
+FL17-80,50,65,,RL,in dike,sarah
+FL17-82,292,90,,,2m zone,sarah
+FL17-82,35,52,,NR,photo,sarah
+FL17-82,128,31,125,,,sarah
+FL17-83,21,40,75,N,"sketch, photo",sarah
+FL17-83,43,67,172,LL,"sketch, photo",sarah
+FL17-83,20,66,38,LL,normal marker disp,sarah
+FL17-83,83,75,152,LL,normal marker disp,sarah
+FL17-83,23,60,,N,,sarah
+FL17-83,68,52,163,LL,corrugations 39SW,sarah
+FL17-83,350,65,,,"5cm, gouge",sarah
+FL17-83,355,70,,,,sarah
+FL17-91,245,78,172,LL,,sarah
+FL17-91,118,8,,,,sarah
+FL17-91,210,86,16,RL,iffy,sarah
+FL17-91,190,72,13,RL,iffy,sarah
+FL17-92,326,82,,,.5 m crush zone,sarah
+FL17-92,295,90,172,,,sarah
+FL17-92,222,66,107,T,"black, xcut by next",sarah
+FL17-92,126,66,,N,,sarah
+FL17-92,218,90,9,LL,,sarah
+FL17-92,270,80,38,N,small fault blocks,sarah
+FL17-92,261,81,64,N,small fault blocks,sarah
+FL17-92,25,80,144,NR,small fault blocks,sarah
+FL17-92,350,86,0,,small fault blocks,sarah
+FL17-92,194,70,3,LL,small fault blocks,sarah
+FL17-92,122,88,115,,small fault blocks,sarah
+FL17-92,105,776,105,T,small fault blocks,sarah
+FL17-92,216,74,61,,small fault blocks,sarah
+TJ17-40,209,82,,,red,sarah
+TJ17-36A,10,78,13,LL,,sarah
+TJ17-36A,105,64,,N,offset zeolite,sarah
+TJ17-36A,87,45,158,RL,in dike,sarah
+TJ17-36B,198,82,158,RL,iffy,sarah
+TJ17-36B,87,45,158,RL,in dike,sarah
+TJ17-36C,240,40,165,RL,,sarah
+TJ17-36C,75,60,,,,sarah
+TJ17-36C,92,75,5,LL,,sarah
+TJ17-36C,74,77,6,,,sarah
+TJ17-37A,100,90,167,RL,"iffy, RED",sarah
+TJ17-37A,145,89,150,RL,iffy ,sarah
+TJ17-37A,163,85,159,RL,,sarah
+TJ17-37A,186,71,14,LL,"iffy, veined zone",sarah
+TJ17-37A,180,81,3,LL,veined zone,sarah
+TJ17-37A,155,73,169,RL,,sarah
+TJ17-37A,135,72,169,RL,,sarah
+TJ17-37A,193,89,147,LL,,sarah
+TJ17-37A,193,90,171,LL,,sarah
+TJ17-37A,196,50,170,LL,red,sarah
+TJ17-37A,178,58,6,,red,sarah
+TJ17-37A,3,87,21,LL,pink,sarah
+TJ17-37A,256,70,83,,,sarah
+TJ17-37A,196,87,155,RL,,sarah
+TJ17-37A,200,79,178,LL,red,sarah
+TJ17-37A,5,73,21,LL,iffy,sarah
+TJ17-37A,147,58,169,RL,red,sarah
+TJ17-37A,188,78,146,LL,red,sarah
+TJ17-37A,119,79,172,RL,pink,sarah
+TJ17-37A,175,83,,,rubble,sarah
+TJ17-37A,135,78,168,RL,red,sarah
+TJ17-37A,200,82,175,LL,,sarah
+TJ17-37A,185,70,156,LL,"red, big, photo",sarah
+TJ17-37B,280,82,,RL,in b.z.,sarah
+TJ17-37B,112,70,0,RL,,sarah
+TJ17-37B,7,73,0,LL,from offset,sarah
+TJ17-37B,242,50,102,,,sarah
+TJ17-37B,343,31,,,,sarah
+TJ17-37B,205,73,162,RL,red,sarah
+TJ17-37C,38,58,112,N,,sarah
+TJ17-37C,196,88,76,T,,sarah
+TJ17-37C,10,68,,,shallow,sarah
+TJ17-37D,190,80,,,eroded out,sarah
+TJ17-37D,195,80,,,eroded out,sarah
+TJ17-37D,175,80,,,,sarah
+TJ17-37D,87,85,115,TR,,sarah
+TJ17-37D,165,62,,,eroded out,sarah
+TJ17-37D,175,73,135,NR,,sarah
+TJ17-37E,32,53,,N,"cuts flow top, photo",sarah
+TJ17-37E,210,90,,,cuts flow top,sarah
+TJ17-37E,180,85,165,,,sarah
+TJ17-37E,135,80,,,rubble zone,sarah
+TJ17-37E,143,70,,,rubble zone,sarah
+TJ17-37E,60,85,,,rubble zone,sarah
+TJ17-37E,115,76,,,rubble zone,sarah
+TJ17-37E,120,60,,,rubble zone,sarah
+TJ17-37E,215,80,,RL,,sarah
+FL17-67,45,61,8,RL,v iffy,sarah
+FL17-67,52,46,0,RL,,sarah
+FL17-67,90,60,30,LL,v iffy,sarah
+FL17-67,138,78,166,RL,near cataclasite zone,sarah
+FL17-67,110,80,2,RL,near cataclasite zone,sarah
+FL17-67,335,82,28,LL,near cataclasite zone,sarah
+FL17-67,343,81,10,LL,"red, photo",sarah
+FL17-67,332,72,41,NL,,sarah
+FL17-67,335,89,21,LL,,sarah
+FL17-67,75,148,,,,sarah
+FL17-67,145,158,,,,sarah
+FL17-67,206,60,,N,"13cm offset, cuts vein",sarah
+FL17-67,235,80,,,"8cm offset, cuts vein",sarah
+FL17-67,122,8,55,N,,sarah
+FL17-67,160,62,,,"7cm offset, cuts vein",sarah
+FL17-68,45,88,168,RL,,sarah
+FL17-68,323,78,24,RL,cut by nex,sarah
+FL17-68,36,60,28,RL,cuts previous,sarah
+FL17-68,310,72,12,LL,beautiful,sarah
+FL17-68,344,68,170,RL,"gorgeous, photo",sarah
+FL17-68,340,89,10,RL,,sarah
+FL17-68,55,82,178,LL,,sarah
+FL17-68,350,82,17,RL,,sarah
+FL17-68,56,59,,,intra-lava B.Z.,sarah
+FL17-68,7,71,35,TR,,sarah
+FL17-68,46,78,22,LL,,sarah
+FL17-68,30,68,18,LL,green,sarah
+FL17-68,54,70,0,LL,green,sarah
+FL17-68,22,80,,,brecciated,sarah
+FL17-68,294,62,9,RL,"iffy, red",sarah
+FL17-68,348,72,160,RL,,sarah
+FL17-68,30,74,174,LL,green,sarah
+FL17-68,254,40,33,TR,red,sarah
+FL17-68,15,66,18,LL,green,sarah
+FL17-68,57,61,,,,sarah
+FL17-68,22,80,,,sharp,sarah
+FL17-68,27,75,166,RL,zone of intact rock,sarah
+FL17-68,29,88,166,RL,zone of intact rock,sarah
+FL17-68,68,72,10,LL,,sarah
+FL17-68,25,62,154,RL,red,sarah
+FL17-68,35,89,12,LL,,sarah
+FL17-68,343,82,9,RL,red,sarah
+FL17-68,143,76,150,LL,red,sarah
+FL17-69,132,68,,N,photo,sarah
+FL17-69,197,88,133,LL,red,sarah
+FL17-69,64,52,3,LL,,sarah
+FL17-69,66,79,16,RL,,sarah
+FL17-69,115,60,,NL,offsets flow top,sarah
+FL17-69,30,57,,N,offsets flow top,sarah
+FL17-69,315,55,10,LL,,sarah
+FL17-70,39,58,35,LL,,sarah
+FL17-70,165,82,,,weathered out,sarah
+FL17-70,51,62,25,,red,sarah
+FL17-70,35,62,,,5cm gouge,sarah
+FL17-70,38,70,22,LL,,sarah
+FL17-70,40,80,,,dike margin,sarah
+FL17-70,20,80,,,in dike,sarah
+FL17-70,186,82,,,dike margin,sarah
+FL17-70,10,76,70,,,sarah
+FL17-70,98,65,,,5cm gouge,sarah
+FL17-70,165,78,,,"eroded, red",sarah
+FL17-70,332,68,8,RL,,sarah
+FL17-70,18,62,62,,,sarah
+FL17-70,41,62,35,LL,red,sarah
+FL17-70,26,89,31,LL,,sarah
+FL17-71,264,86,,,"photo, cuts f.t. with vesicles",sarah
+FL17-71,49,80,20,LL,,sarah
+FL17-71,64,74,,,"gouge, veins",sarah
+FL17-71,65,80,,,".5m, gouge, veins",sarah
+FL17-71,81,82,,,2cm red gouge,sarah
+FL17-71,172,58,,,2cm red gouge,sarah
+FL17-71,217,65,,,"anasthamosing, red",sarah
+FL17-71,214,62,,,anasthamosing,sarah
+FL17-71,182,90,,,"eroded, .75m",sarah
+FL17-71,50,58,,,"red wet zone, photo, 4m",sarah
+FL17-71,214,89,,,red wet zone,sarah
+FL17-71,55,63,,,red wet zone,sarah
+FL17-71,54,68,,,red wet zone,sarah
+FL17-71,71,62,,,red wet zone,sarah
+FL17-71,90,80,,,"eroded, 1m",sarah
+FL17-71,135,70,,,20m eroded rubble,sarah
+FL17-71,58,76,,RL,"brecciated, photo, cuts dike",sarah
+FL17-71,335,62,11,LL,,sarah
+FL17-71,5,82,,,"red, wet",sarah
+FL17-71,357,58,,,cuts f.t.,sarah
+FL17-71,95,60,,,"red, gouge .5m",sarah
+FL17-71,186,70,172,,red,sarah
+FL17-72,335,80,156,,green,sarah
+FL17-73,95,72,158,RL,iffy,sarah
+FL17-74,205,89,68,T,"photo, lozenge",sarah
+FL17-74,80,82,12,RL,,sarah
+FL17-74,62,88,,,"photo, outline intact blocks, b.z.",sarah
+FL17-74,49,72,,,"outline intact blocks, b.z.",sarah
+FL17-74,53,60,,,"<1m, b.z.-related",sarah
+FL17-74,24,76,,,b.z.-related,sarah
+FL17-74,134,42,,,".5m, b.z.-related",sarah
+FL17-74,48,63,,,b.z.-related,sarah
+FL17-74,74,49,,,"1m, b.z.-related",sarah
+FL17-74,160,80,,,"gouge only, .4m",sarah
+FL17-74,188,80,,,not veined or gouge,sarah
+FL17-74,8,73,,,not veined or gouge,sarah
+FL17-74,4,80,,,not veined or gouge,sarah
+FL17-74,165,55,,,"red, 8cm, no veins",sarah
+FL17-74,117,76,,,"brown, 15cm, no veins",sarah
+FL17-75A,330,90,,,eroded out,sarah
+FL17-75A,22,60,,,"5-15cm, green/red gouge",sarah
+FL17-75A,38,72,,RL,iffy,sarah
+FL17-75B,10,85,,T,"photo, offsets dikelet",sarah
+FL17-75B,40,51,12,LL,,sarah
+FL17-75B,189,82,,,,sarah
+TJ17-38,160,75,,,"4 photo, thru outcrop, 10cm",sarah
+FL17-76,15,30,,,red,sarah
+FL17-76,69,64,158,,,sarah
+FL17-76,40,60,177,,"photo, red, white, zone margin",sarah
+FL17-76,331,41,,TR,offsets dike,sarah
+FL17-76,325,40,,TR,offsets dike,sarah
+FL17-77,327,45,116,TL,"red, near A",sarah
+FL17-77,197,68,128,T,near A,sarah
+FL17-77,24,51,36,TL,near A,sarah
+FL17-77,284,57,22,LL,"red, near B",sarah
+FL17-77,260,76,31,RL,"red, near C",sarah
+FL17-77,305,59,24,RL,near C,sarah
+FL17-77,14,52,168,RL,red,sarah
+FL17-77,32,62,158,RL,,sarah
+FL17-81,0,42,90,T,"red, veiny",sarah
+FL17-81,54,60,170,LL,pink,sarah
+FL17-83,45,32,,,,sarah
+FL17-85,33,66,177,LL,,sarah
+FL17-85,45,62,10,LL,,sarah
+FL17-85,21,68,161,TL,,sarah
+FL17-85,28,62,170,LL,,sarah
+FL17-85,20,64,8,LL,,sarah
+FL17-85,330,90,58,RL,NE side up,sarah
+FL17-85,8,80,155,LL,B.z.ish,sarah
+FL17-85,146,84,9,RL,,sarah
+FL17-85,150,86,28,LL,iffy,sarah
+FL17-85,147,85,,,,sarah
+FL17-86,62,80,170,LL,,sarah
+FL17-88,62,50,174,LL,,sarah
+FL17-88,87,80,170,LL,,sarah
+FL17-92,180,72,,,"photo, red, shiny",sarah
+FL17-92,290,57,90,N,photo,sarah
+TJ17-39,340,90,,,"In dike, iffy",sarah
+TJ17-39,200,80,,,"40cm, v veined",sarah
+TJ17-39,30,80,34,RL,,sarah
+TJ17-39,300,80,0,LL,,sarah
+TJ17-39,92,42,,,cuts flow top,sarah
+TJ17-39,350,90,,,,sarah
+TJ17-39,76,72,0,LL,"iffy, red",sarah
+TJ17-39,142,78,,,".5m, pink, eroded out",sarah
+TJ17-39,55,80,,,"turquoise, in shatter",sarah
+TJ17-39,150,80,,,in shatter,sarah
+TJ17-36A,56,76,14,LL,,seth
+TJ17-36B,86,79,16,,,seth
+TJ17-36B,198,85,168,RL,,seth
+TJ17-36B,53,83,26,LL,,seth
+TJ17-36B,58,85,10,LL,,seth
+TJ17-36B,89,51,15,LL,red,seth
+TJ17-36C,273,72,140,TL,xcuts next two,seth
+TJ17-36C,45,85,52,NL,,seth
+TJ17-36C,246,81,149,TL,,seth
+TJ17-37A,155,67,134,NR,,seth
+TJ17-37A,54,50,158,LL,,seth
+TJ17-37A,19,68,22,LL,,seth
+TJ17-37A,109,59,153,LL,,seth
+TJ17-37A,343,83,44,NL,,seth
+TJ17-37A,337,78,31,NL,"younger, same plane",seth
+TJ17-37A,337,78,167,LL,"older, same plane",seth
+TJ17-37A,241,75,33,LL,,seth
+TJ17-37A,166,66,165,LL,"red, large",seth
+TJ17-37B,154,78,163,LL,,seth
+TJ17-37B,173,85,149,LL,red,seth
+TJ17-37B,101,72,169,RL,red,seth
+TJ17-37C,140,88,,RL,red,seth
+TJ17-37C,202,72,172,LL,,seth
+TJ17-37C,176,61,92,N,sketch,seth
+TJ17-37C,352,41,143,,sketch,seth
+TJ17-37C,206,76,168,LL,,seth
+TJ17-37C,152,57,161,RL,"xcuts next, red",seth
+TJ17-37C,210,56,171,LL,,seth
+TJ17-37E,65,76,43,NL,pink,seth
+TJ17-37E,205,77,164,,,seth
+TJ17-37E,149,62,138,TL,,seth
+FL17-67,110,78,167,RL,purple/green,seth
+FL17-67,257,79,7,RL,red,seth
+FL17-67,26,71,28,LL,,seth
+FL17-67,94,56,162,LL,,seth
+FL17-67,105,67,163,LL,,seth
+FL17-67,155,84,162,LL,,seth
+FL17-67,343,84,12,LL,,seth
+FL17-67,64,55,8,LL,,seth
+FL17-67,47,86,6,LL,,seth
+FL17-67,143,75,121,NL,,seth
+FL17-67,135,80,160,RL,,seth
+FL17-68,139,67,123,TL,,seth
+FL17-68,153,45,127,TL,,seth
+FL17-68,123,64,165,LL,,seth
+FL17-68,118,65,150,LL,,seth
+FL17-68,288,90,18,LL,,seth
+FL17-68,97,80,161,RL,,seth
+FL17-68,95,55,156,,,seth
+FL17-68,4,80,19,LL,,seth
+FL17-68,25,80,169,LL,rivulets,seth
+FL17-68,294,82,41,NL,big,seth
+FL17-68,10,62,169,RL,big,seth
+FL17-69,351,65,,,"orange, big",seth
+FL17-69,338,73,,,"orange, big",seth
+FL17-69,122,47,151,,,seth
+FL17-69,133,84,153,LL,,seth
+FL17-69,38,51,97,N,photo,seth
+FL17-69,359,80,,,big,seth
+FL17-69,7,78,,,big,seth
+FL17-69,43,53,,,big,seth
+FL17-69,36,31,123,N,big,seth
+FL17-70,174,90,141,NL,"big, 10cm",seth
+FL17-70,54,75,161,LL,,seth
+FL17-70,43,71,18,LL,,seth
+FL17-70,54,76,9,LL,,seth
+FL17-70,69,69,30,LL,,seth
+FL17-70,73,59,111,TL,,seth
+FL17-70,38,60,51,NL,"big, 20cm, green",seth
+FL17-70,163,76,125,NR,,seth
+FL17-70,21,85,27,LL,,seth
+FL17-71,21,54,172,RL,,seth
+FL17-71,97,78,137,TL,,seth
+FL17-71,100,90,105,,,seth
+FL17-71,50,61,145,LL,"photo, big, gouge",seth
+FL17-71,44,36,115,NR,,seth
+FL17-71,31,44,142,NR,,seth
+FL17-71,25,48,90,N,,seth
+FL17-71,204,77,68,NL,,seth
+FL17-72,121,75,167,LL,,seth
+FL17-72,89,75,,,,seth
+FL17-72,92,67,,,"big, pink, brecciated",seth
+FL17-72,19,81,,LL,xcuts next,seth
+FL17-72,80,48,,,,seth
+FL17-72,40,45,,,big,seth
+FL17-72,97,62,,,subhorizontal slicks,seth
+FL17-72,90,66,,,in dike,seth
+FL17-72,100,74,160,LL,"5cm, pink, in dike",seth
+FL17-73,263,85,150,LL,,seth
+FL17-73,342,64,90,N,,seth
+FL17-73,115,77,167,LL,,seth
+FL17-73,347,34,154,RL,,seth
+FL17-73,10,79,87,N,,seth
+FL17-74,107,79,144,NL,,seth
+FL17-74,141,50,173,LL,"big, open",seth
+FL17-74,160,76,170,LL,"big, polished, red",seth
+FL17-74,146,57,3,LL,big,seth
+FL17-74,115,54,15,RL,,seth
+FL17-74,164,83,140,NL,,seth
+FL17-74,160,69,77,T,iffy,seth
+FL17-74,347,79,95,N,,seth
+FL17-74,127,65,162,LL,,seth
+FL17-74,1,74,69,NL,,seth
+FL17-74,2,83,94,T,,seth
+FL17-74,16,87,104,N,,seth
+FL17-74,33,60,49,NL,,seth
+FL17-74,359,58,158,NR,in dike,seth
+FL17-74,357,74,127,NR,in dike,seth
+FL17-74,323,80,139,NR,in dike,seth
+FL17-74,154,83,66,TR,in dike,seth
+FL17-74,13,49,120,NR,,seth
+FL17-74,17,71,96,N,,seth
+FL17-74,11,71,22,LL,,seth
+FL17-74,18,61,87,N,,seth
+FL17-74,15,60,50,NL,iffy,seth
+FL17-75A,77,64,,RL,subhorizontal slicks,seth
+FL17-75A,212,90,6,LL,,seth
+FL17-75A,204,66,16,LL,,seth
+FL17-75A,25,87,29,RL,,seth
+FL17-75A,245,80,170,LL,,seth
+FL17-75B,63,70,23,LL,"photo, offsets sill",seth
+FL17-75B,207,73,,NR,"photo, offsets sill",seth
+FL17-75B,72,63,27,LL,gouge,seth
+FL17-75B,33,70,32,LL,gouge,seth
+FL17-75B,141,87,,,photo,seth
+FL17-75B,103,86,,,offsets sill,seth
+EY17-03,20,83,,,,seth
+EY17-05,201,83,,,,seth
+FL17-76,111,85,155,LL,,seth
+FL17-76,112,80,144,LL,,seth
+FL17-76,291,75,35,LL,,seth
+FL17-76,280,60,170,RL,,seth
+FL17-76,304,68,41,TR,,seth
+FL17-77,67,89,,RL,offsets dikelet,seth
+FL17-77,321,71,,RL,offsets dikelet,seth
+FL17-77,15,76,168,RL,pink,seth
+FL17-77,12,56,,,"gouge, red",seth
+FL17-77,70,81,148,RL,,seth
+FL17-77,185,41,48,NL,,seth
+FL17-77,130,27,42,NL,shattered zone,seth
+FL17-77,355,32,,N,big,seth
+FL17-81,63,74,15,LL,,seth
+FL17-81,325,56,23,LL,iffy,seth
+FL17-81,30,67,158,RL,,seth
+FL17-81,26,71,168,RL,big,seth
+FL17-84,9,48,80,N,,seth
+FL17-84,18,50,92,N,,seth
+FL17-84,49,73,95,,,seth
+FL17-84,70,73,148,RL,,seth
+FL17-85,46,78,128,TL,,seth
+FL17-85,334,83,9,RL,,seth
+FL17-85,137,90,10,RL,,seth
+FL17-85,16,74,172,LL,,seth
+FL17-86,282,89,,,,seth
+FL17-86,245,63,,,,seth
+FL17-86,309,64,38,NL,,seth
+FL17-86,109,90,145,,,seth
+FL17-86,48,84,17,RL,,seth
+FL17-86,0,63,,,"big, thru-going",seth
+FL17-88,42,72,,,10cm core,seth
+FL17-90,15,62,63,,highly polished,seth
+FL17-90,19,77,59,,highly polished,seth
+TJ17-39,130,45,,,,seth
+TJ17-39,131,66,,,,seth
+TJ17-39,68,72,,,,seth
+TJ17-39,203,90,,,,seth
+TJ17-39,5,50,116,N,inside B.Z.,seth
+TJ17-39,342,80,,,in dike,seth
+TJ17-39,24,87,175,LL,,seth
+TJ17-39,164,86,,,,seth
+TJ17-39,22,64,6,LL,big,seth
+TJ17-39,76,61,46,,,seth
+TJ17-39,280,83,130,N,,seth
+TJ17-39,260,73,,,,seth
+TJ17-39,120,62,,,,seth
+TJ17-39,186,88,166,RL,,seth
+TJ17-39,49,69,,,"red, thin",seth
+TJ17-39,46,67,,,"red, thin",seth
+TJ17-38,90,68,24,LL,red,seth
+TJ17-38,352,86,28,LL ,iffy,seth
+TJ17-38,178,70,164,LL,red,seth
+TJ17-38,67,86,175,,red,seth
+TJ17-38,246,86,7,LL,red,seth
+FL17-78,41,27,,NL,offsets flow top,seth
+FL17-78,352,27,,T,,seth
+FL17-78,345,53,,NR,offsets flow top,seth
+FL17-78,24,45,,NL,,seth
+FL17-78,32,69,30,,,seth
+FL17-80,44,65,156,LL,,seth
+FL17-80,15,67,10,,,seth
+FL17-80,62,63,140,LL,,seth
+FL17-80,69,45,71,N,,seth
+FL17-80,357,45,87,N,,seth
+FL17-80,191,78,76,N,"red, HW of B",seth
+FL17-80,15,49,98,N,FW of B,seth
+FL17-80,14,33,93,N,"red, FW of B",seth
+TJ17-39,14,88,140,,"photo, 1m",seth
+TJ17-39,136,60,,,in dike,seth
+TJ17-39,4,81,32,LL,,seth
+TJ17-39,347,67,,,,seth
+TJ17-39,15,79,41,,red,seth
+TJ17-39,187,66,110,N,red,seth
+TJ17-39,336,86,,,,seth
+TJ17-39,20,83,,,,seth
+TJ17-39,110,58,162,,,seth
+TJ17-39,185,84,,,1m,seth
+TJ17-39,33,67,48,NL,,seth
+TJ17-39,170,77,,,,seth
+TJ17-39,62,68,31,RL,"red, b.z.ish",seth
+TJ17-39,135,53,,,,seth
+TJ17-39,20,78,,,no gouge,seth
+TJ17-39,341,80,,,no gouge,seth
+TJ17-39,225,67,,,,seth
+TJ17-39,180,82,,LL,,seth
+TJ17-39,111,84,,,,seth
+TJ17-39,342,64,80,N,red,seth
+TJ17-39,169,79,,,discrete,seth
+TJ17-39,34,60,,,,seth
+TJ17-39,16,53,62,T,,seth
+TJ17-39,288,54,115,T,red,seth
+TJ17-39,214,76,175,LL,,seth
+TJ17-39,160,77,,,,seth
+TJ14-01,156,81,151,LL,,sarah
+TJ14-02,149,80,162,RL,not mineralized,sarah
+TJ14-02,180,82,172,LL,wite,sarah
+TJ14-02,155,88,20,LL,"white, pink",sarah
+TJ14-02,345,85,9,,white,sarah
+TJ14-02,205,64,,,10cm crush zone,sarah
+TJ14-02,65,61,,,20cm crush zone,sarah
+TJ14-02,9,88,0,LL,,sarah
+TJ14-02,135,85,110,RL,pink,sarah
+TJ14-02,174,85,162,LL,"pink, iffy",sarah
+TJ14-03,122,64,167,RL,"red, curves into below",sarah
+TJ14-03,151,75,12,RL,"red, curved",sarah
+TJ14-03,147,87,12,RL,,sarah
+TJ14-03,125,84,19,RL,,sarah
+TJ14-04,81,54,46,NL,,sarah
+TJ14-04,145,86,0,RL,,sarah
+TJ14-04,125,90,4,RL,,sarah
+TJ14-04,124,63,0,RL,red,sarah
+TJ14-05,126,63,164,RL,,sarah
+TJ14-05,355,78,25,LL,iffy,sarah
+TJ14-05,226,42,107,N,red,sarah
+TJ14-05,340,86,23,LL,red,sarah
+TJ14-05,221,88,98,T,red,sarah
+TJ14-05,44,81,34,TL,,sarah
+TJ14-07,60,80,26,,white,sarah
+TJ14-07,270,83,168,RL,white,sarah
+TJ14-07,238,88,,,10cm,sarah
+TJ14-09,274,70,12,,,sarah
+TJ14-09,183,74,165,RL,,sarah
+TJ14-10,44,70,27,LL,polished,sarah
+TJ14-11,84,71,,,4 photos,sarah
+TJ14-11,32,76,,LL,photo,sarah
+FL14-02,55,56,70,,,sarah
+FL14-12,215,80,,,,sarah
+FL14-12,90,90,,LL,cuts dike,sarah
+TR17-01,30,68,,,,sarah
+TR17-01,194,72,,,subhorizontal slicks,sarah
+TR17-01,330,80,,,,sarah
+TJ16-25,75,84,,LL,,sarah
+TJ16-25,67,79,,LL,,sarah
+TJ16-25,240,80,,LL,,sarah
+FL16-66A,40,80,,,,sarah
+FL16-66A,214,88,,,,sarah
+FL16-66A,164,82,,,,sarah
+FL16-66A,0,78,,,,sarah
+FL16-66A,47,58,,,big,sarah
+FL16-66A,356,78,55,TR,,sarah
+FL16-66A,42,62,,,,sarah
+FL16-66A,62,56,,,,sarah
+FL16-66A,359,80,,,,sarah
+FL16-66A,75,69,,,,sarah
+FL16-66B,88,65,168,RL,40cm,sarah
+FL16-66B,120,68,158,LL,,sarah
+FL16-66B,310,90,33,LL,,sarah
+FL16-66B,42,74,16,LL,photo,sarah
+FL16-66B,313,70,149,RL,,sarah
+FL16-66B,31,74,172,,,sarah
+FL16-66B,0,80,,,1m,sarah
+FL16-66B,80,73,,,gouge,sarah

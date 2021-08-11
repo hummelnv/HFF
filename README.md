@@ -9,6 +9,5 @@ The script “loadStructures2018.R” loads data from the csv files into R so th
 
 R scripts contain code to run regressions and produce plots shown in figures in the manuscript. 
 
-.. image:: https://zenodo.org/badge/392162782.svg
-   :target: https://zenodo.org/badge/latestdoi/392162782
+DOI: https://zenodo.org/badge/latestdoi/392162782
 
